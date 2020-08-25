@@ -824,6 +824,16 @@
       <maximized>true</maximized>
     </application>
     -->
+    <application name="termite">
+        <position force="yes">
+            <x>0</x>
+            <y>0</y>
+        </position>
+        <size>
+            <width>40%</width>
+            <height>37%</height>
+        </size>
+    </application>
     <application class="mpv" type="normal">
       <maximized>true</maximized>
     </application>

@@ -47,6 +47,10 @@
   box-shadow: none;
 }
 
+.termite {
+padding: 20px;
+}
+
 /**********
  * Thunar *
  **********/

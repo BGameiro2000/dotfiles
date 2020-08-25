@@ -1,12 +1,12 @@
 [options]
-font = mplus Nerd Font Mono 10
+font = mplus Nerd Font Mono 9
+
 [colors]
 foreground =                     #EDFEFE
 foreground_bold =                #EDFEFE
 cursor =                         #EDFEFE
 background =                     #373E4D
 cursor_foreground =              #373E4D
-
 
 color0 =                         #373E4D
 color1 =                         #FA5AA4

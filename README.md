@@ -20,7 +20,7 @@ Here are some details about my setup:
 - **WM**                           : [Openbox](http://openbox.org/wiki/Main_Page) :art: 2 changable themes!
 - **DM**                           : [SLiM](https://wiki.archlinux.org/index.php/SLiM) :gift: login themes like UI Web!
 - **Shell**                        : [zsh](https://wiki.archlinux.org/index.php/zsh) :wrench: with [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) framework!
-- **Terminal**                     : [URxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+- **Terminal**                     : [URxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode), [Termite](https://wiki.archlinux.org/index.php/Termite)
 - **Openbox Menu**                 : [obmenu-generator](https://github.com/trizen/obmenu-generator)
 - **Panel**                        : [tint2](https://wiki.archlinux.org/index.php/Tint2) :shaved_ice: material icon font!
 - **Compositor**                   : [Picom](https://github.com/yshui/picom)
@@ -47,14 +47,14 @@ Here are some details about my setup:
 
 1. Rofi Promptmenu \
 *Better promptmenu from [ekaunt](https://github.com/owl4ce/dotfiles/pull/2).*
-2. Cava default color (red) \
-*Not using gradients anymore so you can change color with the <kbd>F</kbd> key.*
-3. Color Toys (bloks) \
-*Like addy-dclxvi style!*
-4. All Papirus Custom Icons \
+2. All Papirus Custom Icons \
 *Customize notification icons for volume and brightness.*
-5. Nanorc \
+3. Nanorc \
 *Change the color scheme and use [scopatz/nanorc](https://github.com/scopatz/nanorc) as syntax highlighting.*
+4. Openbox \
+*Added termite terminal configuration: default window size.*
+5. GTK Themes \
+*Added termite terminal configuration: padding.*
                    
 - **Make less output by redirecting to /dev/null**
 
